@@ -1,0 +1,266 @@
+[
+    {
+        "grupo" : "hamburguesa", 
+        "categoria" : "pan", 
+        "id" : "pan01", 
+        "nombre" : "Clásico", 
+        "precio" : 15, 
+        "img" : "./assets/img/item-pan-clasico.jpg"
+    },
+    {
+        "grupo" : "hamburguesa",
+        "categoria" : "pan",
+        "id" : "pan02",
+        "nombre" : "Rústico",
+        "precio" : 25,
+        "img" : "./assets/img/item-pan-rustico.jpg"
+    },
+    {
+        "grupo" : "hamburguesa",
+        "categoria" : "pan",
+        "id" : "pan03",
+        "nombre" : "Brioche",
+        "precio" : 28,
+        "img" : "./assets/img/item-pan-brioche.jpg"
+    },
+    {
+        "grupo" : "hamburguesa",
+        "categoria" : "carne",
+        "id" : "carne01",
+        "nombre" : "Ternera",
+        "precio" : 40,
+        "img" : "./assets/img/item-void.jpg"
+    },
+    {
+        "grupo" : "hamburguesa",
+        "categoria" : "carne",
+        "id" : "carne02",
+        "nombre" : "Ternera x2",
+        "precio" : 64,
+        "img" : "./assets/img/item-void.jpg"
+    },
+    {
+        "grupo" : "hamburguesa",
+        "categoria" : "carne",
+        "id" : "carne03",
+        "nombre" : "Ternera x3",
+        "precio" : 84,
+        "img" : "./assets/img/item-void.jpg"
+    },
+    {
+        "grupo" : "hamburguesa",
+        "categoria" : "carne",
+        "id" : "carne04",
+        "nombre" : "Pollo Frito",
+        "precio" : 45,
+        "img" : "./assets/img/item-void.jpg"
+    },
+    {
+        "grupo" : "hamburguesa",
+        "categoria" : "carne",
+        "id" : "carne05",
+        "nombre" : "Bondiola",
+        "precio" : 30,
+        "img" : "./assets/img/item-void.jpg"
+    },
+    {
+        "grupo" : "hamburguesa",
+        "categoria" : "carne",
+        "id" : "carne06",
+        "nombre" : "Vegan Mix",
+        "precio" : 30,
+        "img" : "./assets/img/item-void.jpg"
+    },
+    {
+        "grupo" : "hamburguesa",
+        "categoria" : "agregado",
+        "id" : "agregado01",
+        "nombre" : "Lechuga",
+        "precio" : 15,
+        "img" : "./assets/img/item-void.jpg"
+    },
+    {
+        "grupo" : "hamburguesa",
+        "categoria" : "agregado",
+        "id" : "agregado02",
+        "nombre" : "Tomate",
+        "precio" : 20,
+        "img" : "./assets/img/item-void.jpg"
+    },
+    {
+        "grupo" : "hamburguesa",
+        "categoria" : "agregado",
+        "id" : "agregado03",
+        "nombre" : "Cebolla",
+        "precio" : 20,
+        "img" : "./assets/img/item-void.jpg"
+    },
+    {
+        "grupo" : "hamburguesa",
+        "categoria" : "agregado",
+        "id" : "agregado04",
+        "nombre" : "Pepino",
+        "precio" : 20,
+        "img" : "./assets/img/item-void.jpg"
+    },
+    {
+        "grupo" : "hamburguesa",
+        "categoria" : "agregado",
+        "id" : "agregado05",
+        "nombre" : "Bacom",
+        "precio" : 20,
+        "img" : "./assets/img/item-void.jpg"
+    },
+    {
+        "grupo" : "hamburguesa",
+        "categoria" : "agregado",
+        "id" : "agregado06",
+        "nombre" : "Cheddar",
+        "precio" : 25,
+        "img" : "./assets/img/item-void.jpg"
+    },
+    {
+        "grupo" : "hamburguesa",
+        "categoria" : "aderezo",
+        "id" : "aderezo01",
+        "nombre" : "Mayonesa",
+        "precio" : 15, 
+        "img" : "./assets/img/item-void.jpg"
+    },
+    {
+        "grupo" : "hamburguesa",
+        "categoria" : "aderezo",
+        "id" : "aderezo02",
+        "nombre" : "Mostaza",
+        "precio" : 20,
+        "img" : "./assets/img/item-void.jpg"
+    },
+    {
+        "grupo" : "hamburguesa",
+        "categoria" : "aderezo",
+        "id" : "aderezo03",
+        "nombre" : "Ketchup",
+        "precio" : 25,
+        "img" : "./assets/img/item-void.jpg"
+    },
+    {
+        "grupo" : "hamburguesa",
+        "categoria" : "aderezo",
+        "id" : "aderezo04",
+        "nombre" : "Barbacoa",
+        "precio" : 25,
+        "img" : "./assets/img/item-void.jpg"
+    },
+    {
+        "grupo" : "hamburguesa",
+        "categoria" : "aderezo",
+        "id" : "aderezo05",
+        "nombre" : "Guacamole",
+        "precio" : 25,
+        "img" : "./assets/img/item-void.jpg"
+    },
+    {
+        "grupo" : "hamburguesa",
+        "categoria" : "aderezo",
+        "id" : "aderezo06",
+        "nombre" : "Sweet Chile",
+        "precio" : 25,
+        "img" : "./assets/img/item-void.jpg"
+    },
+    {
+        "grupo" : "guarnicion",
+        "categoria" : "guarnicion",
+        "id" : "guarnicion01",
+        "nombre" : "Papas fritas chicas",
+        "precio" : 25,
+        "img" : "./assets/img/item-void.jpg"
+    },
+    {
+        "grupo" : "guarnicion",
+        "categoria" : "guarnicion",
+        "id" : "guarnicion02",
+        "nombre" : "Papas fritas medianas",
+        "precio" : 25,
+        "img" : "./assets/img/item-void.jpg"
+    },
+    {
+        "grupo" : "guarnicion",
+        "categoria" : "guarnicion",
+        "id" : "guarnicion03",
+        "nombre" : "Papas fritas grandes",
+        "precio" : 25,
+        "img" : "./assets/img/item-void.jpg"
+    },
+    {
+        "grupo" : "guarnicion",
+        "categoria" : "guarnicion",
+        "id" : "guarnicion04", 
+        "nombre" : "cebollas blabla",
+        "precio" : 25,
+        "img" : "./assets/img/item-void.jpg"
+    },
+    {
+        "grupo" : "guarnicion",
+        "categoria" : "guarnicion",
+        "id" : "guarnicion05",
+        "nombre" : "Nombre ipsum",
+        "precio" : 25,
+        "img" : "./assets/img/item-void.jpg"
+    },
+    {
+        "grupo" : "guarnicion",
+        "categoria" : "guarnicion",
+        "id" : "guarnicion06",
+        "nombre" : "ejemplo guarnición",
+        "precio" : 25,
+        "img" : "./assets/img/item-void.jpg"
+    },
+    {
+        "grupo" : "bebida",
+        "categoria" : "bebida",
+        "id" : "bebida01",
+        "nombre" : "Coca",
+        "precio" : 25,
+        "img" : "./assets/img/item-void.jpg"
+    },
+    {
+        "grupo" : "bebida",
+        "categoria" : "bebida",
+        "id" : "bebida02",
+        "nombre" : "Pepsi",
+        "precio" : 25,
+        "img" : "./assets/img/item-void.jpg"
+    },
+    {
+        "grupo" : "bebida",
+        "categoria" : "bebida",
+        "id" : "bebida03",
+        "nombre" : "Cerveza",
+        "precio" : 25,
+        "img" : "./assets/img/item-void.jpg"
+    },
+    {
+        "grupo" : "bebida",
+        "categoria" : "bebida",
+        "id" : "bebida04",
+        "nombre" : "agua",
+        "precio" : 25,
+        "img" : "./assets/img/item-void.jpg"
+    },
+    {
+        "grupo" : "bebida",
+        "categoria" : "bebida",
+        "id" : "bebida05",
+        "nombre" : "agua con gas",
+        "precio" : 25,
+        "img" : "./assets/img/item-void.jpg"
+    },
+    {
+        "grupo" : "bebida",
+        "categoria" : "bebida",
+        "id" : "bebida06",
+        "nombre" : "Mirinda",
+        "precio" : 25,
+        "img" : "./assets/img/item-void.jpg"
+    }
+]
