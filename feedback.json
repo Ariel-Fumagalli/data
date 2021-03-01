@@ -1,0 +1,15 @@
+[
+    {
+        "id" : "error01", 
+        "mensaje" : "Debes elegir un tipo de carne para continuar"
+    },
+    {
+        "id" : "error02", 
+        "mensaje" : "Debes elegir una guarnición continuar"
+    },
+    {
+        "id" : "error03", 
+        "mensaje" : "Debes elegir una bebida para continuar"
+    }
+]
+   
