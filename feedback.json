@@ -5,7 +5,7 @@
     },
     {
         "id" : "error02", 
-        "mensaje" : "Debes elegir una guarnición continuar"
+        "mensaje" : "Debes elegir una guarnición para continuar"
     },
     {
         "id" : "error03", 
